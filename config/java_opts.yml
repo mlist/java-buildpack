@@ -16,4 +16,4 @@
 # Configuration for the +JAVA_OPTS+ framework
 ---
 java_opts: 
-	- "-XX:+AlwaysPreTouch"
+  - "-XX:+AlwaysPreTouch"
