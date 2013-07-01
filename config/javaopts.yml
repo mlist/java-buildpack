@@ -15,4 +15,4 @@
 
 # Configuration for the +JAVA_OPTS+ framework
 --- 
-java_opts: "-XX:PermSize=256m -Xmx1024m -Xms768 -XX:+AlwaysPreTouch"
+java_opts: "-XX:+AlwaysPreTouch"
